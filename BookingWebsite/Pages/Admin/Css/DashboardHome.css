@@ -1,0 +1,12 @@
+.table-container {
+  border-radius: 21px;
+  background-color: var(--white);
+  height: 500px;
+  overflow: auto;
+}
+.main {
+  min-width: 0;
+}
+.ws-nowrap {
+  white-space: nowrap;
+}
